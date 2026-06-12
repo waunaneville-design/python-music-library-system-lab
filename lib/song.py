@@ -1,2 +1,8 @@
 class Song:
-    pass
+    count = 0
+    genres = []
+    artists = []
+    genre_count = {}
+    artist_count = {}
+
+    
